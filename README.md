@@ -1,3 +1,7 @@
+# DEPRECATED
+I haven't used or updated this extension for a long time, you should use the better alternative:
+https://spicetify.app/docs/advanced-usage/extensions#full-app-display
+
 # spicetify-enable-fullscreen
 Enables fullscreen on Spotify free (for https://github.com/khanhas/spicetify-cli)
 
